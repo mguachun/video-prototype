@@ -10,6 +10,9 @@ function Home() {
              Testing with Different Divs
             <div className="text">
                 Testing with Different Divs
+                <div className="text">
+                Testing with Different Divs
+            </div>
             </div>
         </div>
      </div>
